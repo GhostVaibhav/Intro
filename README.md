@@ -12,9 +12,4 @@
 ***
 ## Languages that I know
 <br>
-<img src="https://img.icons8.com/color/50/ffffff/c-plus-plus-logo.png"/> &nbsp;
-<img src="https://img.icons8.com/color/50/ffffff/c-programming.png"/> &nbsp;
-<img src="https://img.icons8.com/color/50/ffffff/python.png"/> &nbsp;
-<img src="https://img.icons8.com/color/50/ffffff/html-5.png"/> &nbsp;
-<img src="https://img.icons8.com/color/50/ffffff/css3.png"/> &nbsp;
-
+<img src="https://img.icons8.com/color/50/ffffff/c-plus-plus-logo.png"/> &nbsp; <img src="https://img.icons8.com/color/50/ffffff/c-programming.png"/> &nbsp; <img src="https://img.icons8.com/color/50/ffffff/python.png"/> &nbsp; <img src="https://img.icons8.com/color/50/ffffff/html-5.png"/> &nbsp; <img src="https://img.icons8.com/color/50/ffffff/css3.png"/>
